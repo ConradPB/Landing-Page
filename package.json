@@ -1,0 +1,23 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "A website landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-rizz/Landing-Page.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Conrad P B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-rizz/Landing-Page/issues"
+  },
+  "homepage": "https://github.com/G-rizz/Landing-Page#readme"
+}
